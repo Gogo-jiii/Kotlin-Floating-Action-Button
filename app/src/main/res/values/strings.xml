@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Floating Action Button</string>
+    <string name="extended_fab">Extended Fab</string>
+    <string name="some_description">Some Description</string>
+</resources>
